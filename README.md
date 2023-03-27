@@ -10,7 +10,7 @@ pacman -Sy git
 
 git clone https://github.com/KRYPTON-DeaD/alytleam.git
 
-cd gentoo-install
+cd alytleam
 
 ./configure     # configure to your liking, save as gentoo.conf
 
