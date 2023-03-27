@@ -1,2 +1,0 @@
-# alytleam
-gentoo-installer
